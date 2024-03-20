@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3886310599
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: misteyes-dev
+      Dependencies: {}
